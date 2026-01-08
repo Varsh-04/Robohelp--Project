@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<tocdata>
+<book name="HubSpot" >
+  <item name="First Topic" url="HubSPot/First_Topic.htm" />
+  <item name="Getting Started" url="HubSPot/Getting_Started.htm" />
+  <item name="Home" url="HubSPot/Home.htm" />
+  <item name="Feed" url="HubSPot/Feed.htm" />
+  <item name="Deals" url="HubSPot/Deals.htm" />
+  <item name="Marketing e-mail" url="HubSPot/Marketing_e-mail.htm" />
+  <item name="Company" url="HubSPot/Company.htm" />
+  <item name="Contacts" url="HubSPot/Contacts.htm" />
+  <item name="Tickets" url="HubSPot/Tickets.htm" />
+  <item name="Segments" url="HubSPot/Segments.htm" />
+  <item name="Conversation" url="HubSPot/Conversation.htm" />
+</book>
+
+</tocdata>
